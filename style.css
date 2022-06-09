@@ -1,0 +1,32 @@
+body{
+    background-color: darkcyan;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.update_emoji
+{
+  font-size:48px;
+}
+.capture{
+  width: 150px;
+  height: 35px;
+  background-color:orange ;
+  border-radius: 5px;
+  color: black;
+}
